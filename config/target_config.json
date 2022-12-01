@@ -1,0 +1,35 @@
+{
+    "manualfile" : { 
+        "filepath" : "",
+        "delimeter" : "" 
+    },
+    "oracle" : {
+        "config": {
+            "url" : "",
+            "driver" : "oracle.jdbc.OracleDriver",
+            "user" : "",
+            "password" : "",
+            "dbtable" : "" 
+        },
+        "jar_path" : ""
+    },
+    "sqlserver" :  {
+        "config":{
+            "url" : "",
+            "driver" : "com.microsoft.sqlserver.jdbc.SQLServerDriver",
+            "user" : "",
+            "password" : "",
+            "dbtable" : ""},
+        "jar_path" : ""
+        
+    },
+    "postgresql" : {
+        "config" : {
+            "url": "",
+            "driver": "org.postgresql.Driver",
+            "user": "",
+            "password": "" ,
+            "dbtable" : ""},
+        "jar_path" : "jars/postgresql-42.5.0.jar"
+    }
+}
