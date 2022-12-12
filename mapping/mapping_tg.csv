@@ -1,0 +1,8 @@
+source,target
+CREATE_DATE,created_date
+DELETED_DATE,deleted_date
+CITY,city
+CNTRY,country
+STATE,state
+PIN_CD,pincode
+DIRTY_IND,dirty_ind
