@@ -1,0 +1,12 @@
+source,source_data_type,source_format,target,target_data_type,target_format,default_value
+FIRST_NAME,string,,first_name,,,
+LAST_NAME,string,,last_name,,,
+PHN_FIRST_NAME,,,phonetic_first_name,,,
+PHN_LAST_NAME,,,phonetic_last_name,,,
+NICK_NAME,,,nickname,,,
+MEMBER_ID,,,member_id,,,
+DATE_OF_BIRTH,,yyyy-MM-dd HH:mm:ss.000,date_of_birth,date,yyyy-MM-dd,
+SRC_EMAIL,,,source_email,,,
+VALUE_STS,,,value_status,,,DEFAULT_VALUE
+PERSON_TYP,,,person_type,,,
+SRC_PHONE,,,source_phone,,,

@@ -1,0 +1,6 @@
+source,source_data_type,source_format,target,target_data_type,target_format,default_value
+PRODUCT_NAME,,,product_name,,,
+PRODUCT_DESC,,,description,,,
+PRODUCT_ORIGIN,,,origin,,,
+SALES_UNIT,,,sales_unit,,,
+PRICE,,,price,,,

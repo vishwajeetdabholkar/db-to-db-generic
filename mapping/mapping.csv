@@ -1,6 +1,7 @@
-source,source_data_type,source_format,target,target_data_type,target_format
-F_Name,,,fname,,
-L_Name,,,lname,,
-age,,,age,,
-dob,,,dob,,
-salary,,,salary,,
+source,source_data_type,source_format,target,target_data_type,target_format,default_value
+F_Name,string,,fname,string,,
+L_Name,string,,lname,string,,
+age,string,,age,int,,0
+dob,string,dd-MM-yyyy,dob,date,dd/MM/yyyy,
+salary,string,,salary,double,,0
+,,,source_name,string,,csv file

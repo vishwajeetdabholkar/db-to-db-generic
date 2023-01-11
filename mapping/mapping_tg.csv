@@ -1,8 +1,9 @@
-source,target
-CREATE_DATE,created_date
-DELETED_DATE,deleted_date
-CITY,city
-CNTRY,country
-STATE,state
-PIN_CD,pincode
-DIRTY_IND,dirty_ind
+source,source_data_type,source_format,target,target_data_type,target_format,default_value
+CREATE_DATE,,yyyy-dd-MM HH:mm:ss.SSS,created_date,,yyyy-dd-MM,
+DELETED_DATE,,yyyy-dd-MM HH:mm:ss.SSS,deleted_date,,yyyy-dd-MM,
+CITY,,,city,,,
+CNTRY,,,country,,,
+STATE,,,state,,,
+PIN_CD,,,pincode,,,
+DIRTY_IND,,,dirty_ind,,,0
+,,,source_name,,,oracle_db
